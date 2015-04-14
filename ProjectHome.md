@@ -1,0 +1,1 @@
+file javascript untuk id-pemula
